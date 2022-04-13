@@ -17,6 +17,8 @@ ___
 | name | price | MSRP | href |
 |------|-------|------|------|
 |text|text|text|text|
+
+.json
 {
     "name": "Soccer Predator Freak...",
     "price": "52.25",
