@@ -19,10 +19,12 @@ ___
 |text|text|text|text|
 
 .json
+```
 {
     "name": "Soccer Predator Freak...",
     "price": "52.25",
     "MSRP": "70.00",
     "href": "https://www.6pm.com/p/adidas..."
 }
+```
 ___
